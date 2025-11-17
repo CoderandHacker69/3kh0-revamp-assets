@@ -7,7 +7,7 @@ I hope you all are doing well. I have some sad news to bring to you all. 3kh0.ne
 
 
 # 3kh0 Assets
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/3kh0/3kh0-Assets?label=Total%20file%20count)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/CoderandHacker69/3kh0-revamp-ssets?label=Total%20file%20count)
 ![GitHub repo size](https://img.shields.io/github/repo-size/3kh0/3kh0-Assets?label=Total%20size)
 
 All games will be hosted here due to the amount of files. It overloads GitHub so hard, to GitHub, I am so sorry! For the main site, we using [githack.com](https://raw.githack.com/) as a CDN to load the games, so no more 15 minute deploy times and size limits.
